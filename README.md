@@ -26,7 +26,11 @@ A curated list of open source projects built with Cloudflare Workers
 ## Rust
 
 * [svg-to-png-cf-worker](https://github.com/GewoonJaap/svg-to-png-cf-worker) - SVG to PNG as Cloudflare Worker.
-* [AWS-Region-Finder](https://github.com/krystianhub/AWS-Region-Finder) - AWS resource's region lookup by its public IPv4 or IPv6 address
+* [AWS-Region-Finder](https://github.com/krystianhub/AWS-Region-Finder) - AWS resource's region lookup by its public IPv4 or IPv6 address.
+* [poll](https://github.com/vberlier/poll) - Cloudflare worker for embedding polls anywhere.
+* [stateless-discord-bot](https://github.com/siketyan/stateless-discord-bot) - An example of stateless Discord Bot using Slash Commands feature and Cloudflare Workers.
+* [edge-comments](https://github.com/umstek/edge-comments) - Comments engine on the edge with Cloudflare.
+* [svg-to-png-cf-worker](https://github.com/GewoonJaap/svg-to-png-cf-worker) - SVG to PNG as Cloudflare Worker.
 
 ## Contributing
 
